@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.claude/
+.vscode/
+
+# Data files (large)
+*.xlsx
+*.xls
+
+# Build artifacts
+FDR-Viewer.zip
